@@ -1,5 +1,5 @@
-#Software de Pizzaria Delivery
-## Descição 
+#  Pizzaria Delivery
+## Descrição 
 
 Projeto proposto de case de uma pizzaria delivery online.
 
@@ -29,11 +29,11 @@ Projeto proposto de case de uma pizzaria delivery online.
 ![image](https://user-images.githubusercontent.com/90051803/197850723-a7f3d7fb-e120-43e2-bb88-7b6d3e54769d.png)
 
 
-## Deploy
+## Link do site
 
-Acesse: http://classic-pizza.surge.sh/
+- [Acesse ao site clicando aqui!!](http://classic-pizza.surge.sh/)
 
-## Autores
+## Autor
 
 - [@JordBousquet](https://github.com/Jordemar-D-Bousquet)
 
