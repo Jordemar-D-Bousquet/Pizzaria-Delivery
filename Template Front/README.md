@@ -1,4 +1,4 @@
-# Case 2 Software de Pizzaria
+#Software de Pizzaria Delivery
 ## Descição 
 
 Projeto proposto de case de uma pizzaria delivery online.
